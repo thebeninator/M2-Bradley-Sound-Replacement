@@ -7,8 +7,8 @@
     <ProjectGuid>{3DC925AF-A489-4248-ABCA-15DF8A128008}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>M2BradleyResound</RootNamespace>
-    <AssemblyName>M2BradleyResound</AssemblyName>
+    <RootNamespace>M2BradleySoundReplacement</RootNamespace>
+    <AssemblyName>M2BradleySoundReplacement</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

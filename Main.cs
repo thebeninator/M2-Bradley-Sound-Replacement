@@ -19,7 +19,7 @@ using GHPC.Player;
 using GHPC.State;
 using NWH.VehiclePhysics;
 
-[assembly: MelonInfo(typeof(Mod), "M2 Bradley Resound", "1.0.0", "ATLAS")]
+[assembly: MelonInfo(typeof(Mod), "M2 Bradley Sound Replacement", "1.0.0", "ATLAS")]
 [assembly: MelonGame("Radian Simulations LLC", "GHPC")]
 
 namespace M2BradleyResound
